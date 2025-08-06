@@ -1,4 +1,4 @@
-<h1 align="center">Computer Science @ <img src="https://raw.githubusercontent.com/uiuc-web-programming/fa23/master/assets/img/illinois-logo.png" height="25"/> Illinois
+<h1 align="center">Computer Science  @ <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Illinois_Logo.png" height="25" /> Illinois
 </h1>
 
 <p align="center">
