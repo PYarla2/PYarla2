@@ -1,5 +1,5 @@
-<h1 align="center">Computer Science  @ <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Illinois_Logo.png" height="25" /> Illinois
-</h1>
+<h2 align="center">Computer Science @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
+
 
 <p align="center">
   👋 Hi, I’m <strong>Pavithra Yarlagadda</strong> — a CS student at UIUC.  I’m focused on building tools that help real people solve real problems. When I’m not debugging, I will probably be running, climbing, or watching movie marathons.
