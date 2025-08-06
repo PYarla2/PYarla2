@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  👋 Hi, I’m <strong>Pavithra Yarlagadda</strong> — a CS student at UIUC.  I’m focused on building tools that help real people solve real problems. When I’m not debugging, I will probably be running, climbing, or watching movie marathons.
+  👋 Hi, I’m <strong>Pavithra Yarlagadda</strong> a CS student at UIUC.  I’m focused on building tools that help real people solve real problems. When I’m not debugging, I will probably be running, climbing, or watching movie marathons.
 
 
 
